@@ -335,7 +335,7 @@ export const apps = [
 	{
 	  id: "catedra",
 	  order: 8,
-	  is_show: true,
+	  is_show: false,
 	  thumbnail: "./assets/herramientas-digitales/catedra.png",
 	  bg:
 		"./assets/herramientas-digitales/catedra_bg.png",
